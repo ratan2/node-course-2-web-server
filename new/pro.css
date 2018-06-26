@@ -1,0 +1,15 @@
+
+	body {
+    color: #555;
+    font-family: Open Sans;
+    font-size: 16px;
+    position: relative;
+    height: 100vh;
+    font-weight: 400;
+}
+.top{
+background-image:url(back.png);
+ background-size: cover;
+    background-position: center;
+	height:40vh;
+	display:block;}

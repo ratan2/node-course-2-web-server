@@ -1,0 +1,173 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+	body {
+    color: #128;
+    font-family: Open Sans;
+    font-size: 16px;
+    position: relative;
+    height: 100px;
+    font-weight: 400;
+}
+.top{
+background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)),url(back.png);
+ background-size: cover;
+    background-position: center;
+	height:40vh;
+	display:block;
+	
+	}
+	
+	
+	.title{
+	left:540px;
+padding-top:80px;
+	position:absolute; 
+	  font-weight: 400;
+	  color:#fff;
+	}
+	
+	
+	#as{
+	font-size:2em;
+
+	text-align:center;
+	
+	}
+	
+	
+	.value{
+	text-align:center;
+	margin-top:20px;
+font-size:2em;
+ letter-spacing: 4px;}
+ 
+/*******************/
+.inpu{
+height:65px;
+padding: 14px;
+    border-bottom: 1px solid #e7e7e7;
+    background-color: #f7f7f7;
+	text-align:center;
+ 
+ }
+ 
+ .s_aa_v{
+ width:45px;
+ height:37px;
+ border:1px solid #e7e7e7;
+ background-color:#fff;
+ padding-bottom:4px;
+ 
+ }
+ .inpu_data{
+  width:250px;
+ height:40px;
+ border:1px solid #e7e7e7;
+ border-radius:5px;
+  background-color:#fff;
+ margin-left:5px;
+ padding-left:10px;
+ }
+ 
+ 
+ .inpu_number{
+ width:250px;
+ height:40px;
+ border:1px solid #e7e7e7;
+  background-color:#fff;
+  border-radius:5px;
+  padding-left:10px;
+  }
+ 
+ .add__btn{
+ height:40px;
+    font-size: 35px;
+    background: none;
+    border: none;
+    color: #28B9B5;
+    cursor: pointer;
+    display: inline-block;
+   
+    margin-left: 10px;
+}
+.right{
+float:right;}
+
+.container{
+width:1000px;
+margin:50px auto;}
+
+
+.income{
+float:left;
+width:450px;
+margin-right:50px;
+
+}
+
+h2{
+font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 15px;}
+	
+	.inc_ca{
+	color:#28B9B5;}
+	
+	
+	.item{
+	border-bottom:1px solid #e7e7e7;
+	padding:15px;}
+	
+	
+	.item_description{
+	float:left;
+	display:block;
+	}
+	
+	
+	.item_value{
+	float:left;
+	display:block;	}
+	
+	
+	.clear{
+	clear:both;}
+	
+	
+	.exp_ca{
+	color:#FF5049;}
+	
+	.expense{
+	width:400px;
+	float:left;}
+	
+	
+	.int:hover{
+	border-bottom:1px solid #e7e7e7;
+	padding:15px;
+	background-color:#28B9B5;
+	cursor:pointer;}
+	
+	
+	.eit:hover{
+	background-color: #FF5049;
+	border-bottom:1px solid #e7e7e7;
+	padding:15px;
+	cursor:pointer;
+	}
+	
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
